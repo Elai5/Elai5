@@ -30,42 +30,11 @@ Currently, I’m focused on solving real-world challenges for students abroad th
 ![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elai5&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elai5&layout=compact&theme=radical)
 ## 🚧 Now Building
-
 ### ✨ StudentKonnect
-- A support platform for students studying abroad  
-- Features: messaging, community tools, and most recently — an AI-powered **Bio Generator**  
-- Why? Because introducing yourself shouldn't be a barrier to belonging.
-
-> 🔍 *"Tell me about yourself."* — A simple prompt that can feel overwhelming. I built the bio generator to help users craft confident, clear intros with just a name and a few interests.
-
-🔧 Tech so far: Django, JavaScript (AI MVP), REST APIs, PostgreSQL
-
-🎯 Goal: Launch full AI version + improve onboarding experience
-
----
-
-## 🔜 What’s Next
-
-Building on my React experience gained through mentorship and portfolio projects, I’m creating more dynamic, scalable frontends.
-
-Planned projects:
-- 🌱 StudentKonnect frontend redesign in React  
-- 🤖 Smart form helper with AI suggestions  
-
+> Explore more on [StudentKonnect](https://studentkonnection.onrender.com/)
 Check out my [portfolio](https://elainesportfolio.netlify.app/) for React projects and more.
-
 ---
 **Practices:** Agile / Scrum, UX Writing, Build in Public  
-
----
-
-## 🔍 Highlights & Features
-
-- 🧠 Built an AI Bio Generator inspired by [MentorMatch Kenya](https://mentormatchkenya.com/)  
-- 💬 Improved form UX with autocomplete + clear validation  
-- 🎨 Streamlined UI for better accessibility and mobile use  
-
-> Explore more on [StudentKonnect](https://studentkonnection.onrender.com/)
 
 ---
 
