@@ -25,8 +25,9 @@ Currently, I’m focused on solving real-world challenges for students abroad th
 ![n8n](https://img.shields.io/badge/-n8n-FF3A29?style=flat&logo=n8n&logoColor=white)
 ![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-
+---
+## 📊 GitHub Stats
+![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elai5&show_icons=true&theme=radical)
 ## 🚧 Now Building
 
 ### ✨ StudentKonnect
@@ -93,10 +94,3 @@ Check out my [portfolio](https://elainesportfolio.netlify.app/) for React projec
 Follow my journey under **#ElaineBuilds**
 Thanks for stopping by! 👩🏽‍💻
 ---
-
-## 📊 GitHub Stats
-
-![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elai5&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elai5&layout=compact&theme=radical)
-
