@@ -28,7 +28,8 @@ Currently, I’m focused on solving real-world challenges for students abroad th
 ---
 ## 📊 GitHub Stats
 ![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elai5&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elai5&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elai5&layout=normal&theme=radical)
+
 ## 🚧 Now Building
 ### ✨ StudentKonnect
 > Explore more on [StudentKonnect](https://studentkonnection.onrender.com/)
