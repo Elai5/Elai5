@@ -1,9 +1,7 @@
 ## <h1 align="center">👋 Hi, I'm Elaine Yvette</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Frontend+Developer;Technical+Trainer;Lifelong+Learner+%F0%9F%93%9A" />
 </p>
-
 ### 💡 Building meaningful, user-centered tools — one project at a time
 
 I'm a **Full-Stack Developer** and **Technical Trainer** passionate about creating tech that empowers people. I thrive at the intersection of education, automation, and human connection.
@@ -30,17 +28,15 @@ Currently, I’m focused on solving real-world challenges for students abroad th
 ![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elai5&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elai5&layout=normal&theme=radical)
 
+
 ## 🚧 Now Building
 ### ✨ StudentKonnect
 > Explore more on [StudentKonnect](https://studentkonnection.onrender.com/)
 Check out my [portfolio](https://elainesportfolio.netlify.app/) for React projects and more.
 ---
 **Practices:** Agile / Scrum, UX Writing, Build in Public  
-
 ---
-
 ## 🤝 Let’s Connect
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/elaine-yvette-74921524a/)  
 - 🌐 [Portfolio](https://elainesportfolio.netlify.app/)  
 - 📧 Open to software dev or tech training roles.
