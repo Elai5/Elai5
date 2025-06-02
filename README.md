@@ -28,6 +28,7 @@ Currently, I’m focused on solving real-world challenges for students abroad th
 ---
 ## 📊 GitHub Stats
 ![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elai5&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elai5&layout=compact&theme=radical)
 ## 🚧 Now Building
 
 ### ✨ StudentKonnect
@@ -54,17 +55,6 @@ Planned projects:
 Check out my [portfolio](https://elainesportfolio.netlify.app/) for React projects and more.
 
 ---
-
-## 🛠 Tech Stack
-
-**Languages & Frameworks:**  
-- JavaScript, Python, HTML, CSS  
-- Django, React, PostgreSQL  
-
-**Tools & Platforms:**  
-- Git & GitHub, Docker, VS Code, Netlify, Vercel  
-- n8n, Airtable, Figma (for wireframing)  
-
 **Practices:** Agile / Scrum, UX Writing, Build in Public  
 
 ---
